@@ -19,6 +19,6 @@ the most obvious solution may not be the best one, and that the best solution av
 the one that works.
 
 
--Audio Visualization
+- Audio Visualization
 
--Project Organization
+- Project Organization
